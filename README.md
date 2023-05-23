@@ -1,5 +1,12 @@
 # llm-uses
-How do people use LLMs like ChatGpt? Let's start by analyzing how 817 people report they use ChatGPT.
+How do people use LLMs like ChatGpt?
+Here is a preliminary analysis of how 817 people report they use ChatGPT.
+
+Here are the top lemmas:
 ![Top lemmas in the data set](top_lemmas.png)
+
+The top nouns:
 ![Top nouns in the data set](top_nouns.png)
-![Context in which eight of the most informative nouns used](ozone_days.png)
+
+And some context around eight very informative nouns:
+![Context in which eight of the most informative nouns used](word_contexts.png)
