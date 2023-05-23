@@ -9,4 +9,4 @@ The top nouns:
 ![Top nouns in the data set](top_nouns.png)
 
 And some context around eight very informative nouns:
-![Context](word_contexts.png)
+![Context](word_contexts.PNG)
